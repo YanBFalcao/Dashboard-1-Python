@@ -1,2 +1,1 @@
-# Dashboard-1-Python
-Dashboard criado em Python (Exercício 1)
+# Dashboard - Python - Qtd. Bancos - Exercício 1 (Concluído)
